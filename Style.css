@@ -1,0 +1,29 @@
+Body  {
+    Background: rgb(70, 142, 236);
+    Font: mormal 15pt arial;  /* fonte da letra/*
+}
+
+Header  {
+     Color: white;
+     Text-align: center;
+}
+
+Section{
+     Background:  white ;
+     Border-radius: 10px;    <!—borda
+     Paiding: 15px;
+     Width: 500px;    <!—largura
+     Margin: auto;  <!—centralisar
+     Box-shadow: 5px 5px 10px black;  <!—lateral/vertical/espalhamento/cor
+}
+
+Div{
+     Text-align:center;
+     Padding: 8px;
+}
+
+Footer  {
+      Color:white;
+      Text-align: center;
+      Font-style: italic;
+}
